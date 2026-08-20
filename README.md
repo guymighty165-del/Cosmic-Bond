@@ -1,6 +1,7 @@
 # Cosmic-Bond
 Project created for hackathon
 # ✨ Cosmic Bonds — Astrological Synastry & Compatibility Engine
+Live link  https://cosmic-bonds-astrolive.web.app
 
 [![Live App](https://img.shields.io/badge/Live-App-purple?style=for-the-badge)](https://cosmic-bonds-astrolive.web.app)
 [![Firebase Hosting](https://img.shields.io/badge/Hosted-Firebase-orange?style=for-the-badge)](https://cosmic-bonds-astrolive.web.app)
