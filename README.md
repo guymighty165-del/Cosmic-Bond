@@ -101,11 +101,11 @@ Ensure you have [Node.js](https://nodejs.org) installed on your system.
 
 ## 📈 Strategic Analysis & Case Study
 
-For an in-depth breakdown of the market research, problem statements, expected CAC/retention impact, success metrics, and mathematical formulas backing the synastry engine, read our full [Proposal & Case Study](PROPOSAL_AND_CASE_STUDY.md).
+For an in-depth breakdown of the market research, problem statements, expected CAC/retention impact, success metrics, and mathematical formulas backing the synastry engine, read our full Proposal
 
 ---
 
 ## 📜 Citations & References
 
-All market valuations, demographic details, and growth projections are formally cited in [PROPOSAL_AND_CASE_STUDY.md#6-formal-citations--references](PROPOSAL_AND_CASE_STUDY.md#6-formal-citations--references).
+All market valuations, demographic details, and growth projections are formally cited in Proposal.
 No environment files, private credentials, or API keys are stored in this repository. All calculations are executed securely client-side.
