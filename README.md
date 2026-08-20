@@ -101,7 +101,7 @@ Ensure you have [Node.js](https://nodejs.org) installed on your system.
 
 ## 📈 Strategic Analysis & Case Study
 
-For an in-depth breakdown of the market research, problem statements, expected CAC/retention impact, success metrics, and mathematical formulas backing the synastry engine, read our full Proposal
+For an in-depth breakdown of the market research, problem statements, expected CAC/retention impact, success metrics, and mathematical formulas backing the synastry engine, read our full [Proposal] https://github.com/guymighty165-del/Cosmic-Bond/blob/1ebefd1720cffebf0621b19a713196872f7938f5/Proposal
 
 ---
 
